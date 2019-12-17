@@ -1,0 +1,6 @@
+[submodule "projects/peis-project1"]
+	path = projects/peis-project1
+	url = https://github.com/Namrata-Patel/peis-project1.git
+[submodule "projects/peis-project2"]
+	path = projects/peis-project2
+	url = https://github.com/Namrata-Patel/peis-project2.git
